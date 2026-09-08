@@ -1,0 +1,7 @@
+{
+  "name": "SACCO Management System",
+  "description": "Comprehensive SACCO management system featuring real-time loan tracking, member contribution dashboards, automated interest calculators, balance sheet, profit and loss, and interactive member inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
